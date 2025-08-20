@@ -46,6 +46,7 @@ Graphs of **path cost**, **considered actions**, and **runtime** vs. `m` illustr
 ## 🗂 Project Structure
 
 Project/
+
 ├─ main.py # Orchestrates I/O, timing, and runs the solver
 
 ├─ movingVehicles.py # Problem class: states, actions, result, heuristic
