@@ -1,0 +1,5 @@
+['MoveDown', 'MoveDown', 'MoveDown', 'MoveUp', 'MoveUp', 'JumpRight', 'JumpDown', 'MoveRight', 'JumpUp', 'JumpDown', 'MoveRight', 'MoveRight', 'JumpDown', 'MoveRight', 'MoveRight', 'MoveUp', 'MoveLeft', 'MoveRight', 'MoveLeft', 'MoveRight', 'JumpRight', 'JumpRight', 'MoveUp', 'MoveRight', 'MoveLeft', 'MoveRight', 'MoveRight', 'MoveLeft', 'MoveLeft', 'JumpRight', 'MoveLeft', 'MoveLeft', 'MoveLeft', 'JumpUp', 'JumpUp', 'MoveLeft', 'MoveLeft', 'MoveDown', 'MoveDown', 'MoveDown']
+
+Path cost: 40
+Possible actions: 49635
+Elapsed time: 1637.28562839126354167

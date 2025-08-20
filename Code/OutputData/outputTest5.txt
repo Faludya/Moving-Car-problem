@@ -1,0 +1,5 @@
+[‘MoveDown’, ‘MoveDown’, ‘MoveDown’, ‘JumpLeft’, ‘MoveUp’, ‘JumpDown’, ‘JumpDown’, ‘JumpDown’, ‘MoveRight’, ‘MoveRight’, ‘JumpDown’, ‘JumpDown’, ‘JumpRight’, ‘MoveLeft’, ‘MoveLeft’, ‘MoveRight’, ‘MoveDown’, ‘JumpLeft’, ‘MoveLeft’, ‘JumpUp’, ‘MoveDown’, ‘MoveRight’, ‘MoveLeft’, ‘MoveUp’, ‘MoveRight’, ‘MoveLeft’, ‘MoveLeft’, ‘MoveRight’, ‘JumpRight’, ‘MoveLeft’, ‘MoveRight’, ‘MoveLeft’, ‘JumpLeft’, ‘MoveUp’, ‘MoveRight’, ‘MoveDown’, ‘MoveDown’, ‘JumpRight’, ‘MoveLeft’, ‘JumpLeft’, ‘JumpLeft’, ‘JumpRight’, ‘MoveDown’, ‘MoveRight’, ‘MoveUp’, ‘MoveLeft’, ‘MoveDown’, ‘MoveLeft’, ‘MoveRight’, ‘MoveLeft’, ‘MoveDown’, ‘MoveRight’, ‘JumpRight’, ‘MoveLeft’, ‘JumpLeft’, ‘MoveLeft’, ‘MoveDown’, ‘MoveDown’, ‘MoveRight’, ‘MoveUp’, ‘MoveDown’, ‘JumpRight’, ‘MoveRight’, ‘MoveLeft’, ‘MoveLeft’, ‘MoveRight’, ‘MoveLeft’, ‘MoveRight’, ‘MoveDown’, ‘MoveUp’, ‘MoveLeft’, ‘JumpRight’, ‘MoveLeft’, ‘MoveDown’, ‘MoveLeft’, ‘MoveRight’, ‘MoveRight’, ‘JumpRight’, ‘MoveUp’, ‘MoveLeft’, ‘JumpRight’, ‘MoveLeft’, ‘MoveRight’, ‘MoveDown’, ‘MoveRight’]
+
+Path cost: 76
+Possible actions: 83713
+Elapsed time: 3743.27394039487654215
